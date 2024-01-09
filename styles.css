@@ -1,5 +1,5 @@
 header { 
-    font-size: 72px;
+    font-size: 50px;
     color: #000099;
     } 
 
@@ -8,8 +8,15 @@ body {
     } 
 
 nav { 
-    background-color: white;
+    background-color: black;
+    overflow: hidden;
     } 
+nav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    }
 
 h1 {
     font-size: 30px;
