@@ -7,7 +7,9 @@ body {
     background-color: #cccccc; 
     } 
 
-nav { } 
+nav { 
+    background-color: white;
+    } 
 
 h1 {
     font-size: 30px;
