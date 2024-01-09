@@ -10,7 +10,9 @@ Visual header/site info
 </header>
 
 <nav>
-Navigation menu (links to other pages) goes here
+  <a href="https://en.wikipedia.org/wiki/Football">Football--Wikipedia</a> |
+  <a href="https://www.mlssoccer.com/">Major League Soccer</a> |
+  <a href="https://www.premierleague.com/">Premier League</a>
 </nav>
 
 The content of the document goes here
