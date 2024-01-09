@@ -1,4 +1,7 @@
-header { } 
+header { 
+    font-size: 40px;
+    color: #000099;
+    } 
 
 body { 
     background-color: #cccccc; 
@@ -7,11 +10,12 @@ body {
 nav { } 
 
 h1 {
-    color: #000099;
+    font-size: 30px;
     text-align: left;
     } 
 
 h2 {
+    font-size: 20px;
     text-align: left;
     } 
 
