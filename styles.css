@@ -9,7 +9,6 @@ body {
     } 
 
 nav a:hover {
-    color: black;
     background-color: aqua;
     }
 nav { 
