@@ -37,6 +37,10 @@ ul {
     color: black;
     }
 
+input{
+    margin: 10px 0;
+}
+
 input:focus{
     border-width: thick;
 }
@@ -44,8 +48,4 @@ input:focus{
 input[type=text]{
     padding: 16px 10px;
     box-sizing: border-box;
-}
-
-input{
-    margin: 10px 0;
 }
