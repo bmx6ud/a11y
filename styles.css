@@ -10,6 +10,7 @@ body {
 
 nav a:hover {
     background-color: aqua;
+    color: black;
     }
 nav { 
     background-color: black;
