@@ -36,3 +36,7 @@ h2 {
 ul {
     color: black;
     }
+
+input[type=text]{
+    padding: 12px 20px;
+}
