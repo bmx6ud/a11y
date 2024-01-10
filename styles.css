@@ -48,4 +48,9 @@ input:focus{
 input[type=text]{
     padding: 5px 16px;
     box-sizing: border-box;
+    width: 25%;
+}
+
+input[id=comments]{
+    width: 50%;
 }
