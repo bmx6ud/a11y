@@ -42,7 +42,10 @@ input:focus{
 }
 
 input[type=text]{
-    padding: 16px 20px;
-    margin: 10px 0;
+    padding: 16px 10px;
     box-sizing: border-box;
+}
+
+input{
+    margin: 10px 0;
 }
