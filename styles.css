@@ -41,12 +41,16 @@ input{
     margin: 10px 0;
 }
 
-input:focus{
+input:focus {
     border-width: thick;
 }
 
-input[type=text]{
+input[type=text] {
     padding: 5px 16px;
     box-sizing: border-box;
     width: 25%;
+}
+
+.longans {
+    width: 50%;
 }
