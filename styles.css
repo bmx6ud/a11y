@@ -37,6 +37,10 @@ ul {
     color: black;
     }
 
+input:focus{
+    border-width: thick;
+}
+
 input[type=text]{
     padding: 12px 20px;
 }
