@@ -50,7 +50,3 @@ input[type=text] {
     box-sizing: border-box;
     width: 25%;
 }
-
-textarea {
-    margin: 10px 0;
-}
