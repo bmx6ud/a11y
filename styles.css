@@ -38,6 +38,9 @@ ul {
     color: black;
     }
 
+audio {
+    margin: 10px 0;
+}
 textarea {
     margin: 10px 0;
 }
