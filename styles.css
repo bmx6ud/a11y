@@ -15,8 +15,7 @@ div {
 }
 
 nav a:hover {
-    background-color: aqua;
-    color: black;
+    background-color: red;
     }
 nav { 
     background-color: black;
